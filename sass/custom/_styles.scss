@@ -1,0 +1,24 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+body > header {
+  background-color: rgba(#000000,0.7);
+}
+body > footer {
+  @include border-bottom-radius(0.8em);
+}
+body > nav form .search {
+  padding: 0.4em;
+}
+header {
+  
+  hgroup {
+    h1 {
+      letter-spacing: 4px;
+      text-transform: uppercase;
+    }
+    h2 {
+      font-weight: bold;
+    }
+  }
+}
