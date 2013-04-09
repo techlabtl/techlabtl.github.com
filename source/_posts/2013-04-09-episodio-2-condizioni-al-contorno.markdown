@@ -8,7 +8,7 @@ author: Paolo Cavagnolo, Riccardo Donat-Cattin
 published: true
 ---
 
-{% img "center" /images/posts/2.jpg "Episodio 2" "episodio 2" %}
+{% img "center fullwidth" /images/posts/2.jpg "Episodio 2" "episodio 2" %}
 
 Per capire cosa volessimo dare al chierese siamo partiti senz’altro da ciò che ci piace fare, o da ciò che sappiamo fare, mentre l’associazione Patchanka, ben radicata nel chierese, forniva risorse di rete e buona volontà.
 
