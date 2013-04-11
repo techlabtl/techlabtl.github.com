@@ -28,3 +28,13 @@ article {
     width: 100%
   }
 }
+
+aside.sidebar {
+  section#license {
+    img {
+      @include box-shadow(none);
+      @include border-radius(0px);
+      border: 0px;
+    }
+  }
+}
