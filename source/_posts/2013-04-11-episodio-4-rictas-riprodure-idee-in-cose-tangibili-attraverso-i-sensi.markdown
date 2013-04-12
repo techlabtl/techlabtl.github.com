@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episodio 4 - Rictas: Riprodure Idee in Cose Tangibili Attraverso i Sensi"
+title: "Episodio 4 - RICTAS: Riprodure Idee in Cose Tangibili Attraverso i Sensi"
 date: 2013-04-11 14:21
 comments: true
 categories: [ techlab, creazione, episodio, serie ]
