@@ -21,3 +21,5 @@ Certo ci saranno anche le spiegazioni più accademiche e rigorose di [Gianluca](
 **Il corso non è prefabbricato**. L'incontro di presentazione servirà per interagire con il pubblico e raccogliere elementi per impostare il corso e definirlo in base agli interessi e ai moti che sorgeranno durante la serata.
 
 Se avete un **interesse professionale**, **hobbistico** o semplicemente volete capire meglio il mondo della programmazione e del software in generale, vi aspettiamo **davanti al TechLab mercoledì prossimo**.
+
+_Immagine di [Ettore Sottsass](https://secure.flickr.com/photos/designmuseumshop/3451917719/in/photostream/)_
