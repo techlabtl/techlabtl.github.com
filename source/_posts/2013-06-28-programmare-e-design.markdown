@@ -8,6 +8,8 @@ author: Edoardo Tenani
 published: true
 ---
 
+{% img "center fullwidth" /images/posts/programmare-e-design.jpg "Programmare è design" "Programmare è design" %}
+
 Il TechLab grazie alla collaborazione di **[Ferruccio Zamuner](http://nonsolosoft.com/solo/chisiamo.shtml)** e **[Gianluca Torta](http://www.unito.it/unitoWAR/page/dipartimenti1/D004/D004_personale_batch_BasicBook_Docenti_IT7?id=180631)** ha organizzando per il **3 luglio alle 21** ( al TechLab ) la presentazione di un corso dedicato alla programmazione che vogliamo preparare per il prossimo settembre.
 
 <!-- more -->
