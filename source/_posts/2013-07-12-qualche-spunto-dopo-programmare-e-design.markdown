@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Qualche spunto dopo Programmare è Design"
-date: 2013-07-11 16:08
+date: 2013-07-12 11:52
 comments: true
 categories: [ programmazione, design, corso, followup ]
 author: Edoardo Tenani
