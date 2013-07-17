@@ -103,3 +103,7 @@ mailchimp: true
 mailchimp_list_name: Newsletter
 mailchimp_list_why: Rimani aggiornato sulle attività e gli sviluppi del TechLab!
 mailchimp_embed_action: http://techlab.us6.list-manage.com/subscribe/post?u=7200378b33e9cbe6682056fa7&amp;id=cebd53e2f2
+
+# Piwik
+piwik_url: piwik.patchanka.coop
+piwik_siteid: 3
