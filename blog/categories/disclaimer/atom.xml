@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: disclaimer | TechLab]]></title>
+  <link href="http://techlabtl.github.com/blog/categories/disclaimer/atom.xml" rel="self"/>
+  <link href="http://techlabtl.github.com/"/>
+  <updated>2014-02-24T19:19:27+01:00</updated>
+  <id>http://techlabtl.github.com/</id>
+  <author>
+    <name><![CDATA[TechLab]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Prefazione]]></title>
+    <link href="http://techlabtl.github.com/blog/2013/04/08/prefazione/"/>
+    <updated>2013-04-08T22:14:00+02:00</updated>
+    <id>http://techlabtl.github.com/blog/2013/04/08/prefazione</id>
+    <content type="html"><![CDATA[<p>Cari tutti,<br/>
+il 20 aprile 2013 inaugurerà il TechLab a Chieri!<br/>
+Grazie ai preziosi <a href="http://www.provincia.torino.gov.it/solidarietasociale/giovani/progetti">fondi della Provincia di Torino</a> e alla saggia e confusa progettualità del <a href="http://patchanka.coop">Patchanka</a>.</p>
+
+<p>Insieme a questo invito vi rendiamo partecipi di un saggio a puntate, che da stasera fino all'inaugurazione, vi racconterà in 12 passi come e perché l'ex-informagiovani di Chieri si sta trasformando in un laboratorio pubblico.</p>
+
+<p>Con la speranza che queste mail siano gradite, invitiamo tutti i lettori a <strong>usare</strong>, <strong>divulgare</strong>, <strong>riscrivere</strong> e <strong>criticare</strong> tutti i loro contenuti.</p>
+
+<p>Con affetto,<br/>
+il TechLab Team in collaborazione con:<br/>
+  <em><a href="http://patchanka.coop">Cooperativa Patchanka</a></em><br/>
+  <em><a href="http://www.provincia.torino.gov.it/">Provincia di Torino</a></em><br/>
+  <em><a href="http://www.comune.chieri.to.it/home">Comune di Chieri</a></em><br/>
+  <em>e tutti i partecipanti del tavolo <a href="http://www.provincia.torino.gov.it/solidarietasociale/giovani/progetti">PLG</a>!</em></p>
+]]></content>
+  </entry>
+  
+</feed>
