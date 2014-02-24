@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[TechLab]]></title>
-  <link href="http://techlabtl.github.com/atom.xml" rel="self"/>
-  <link href="http://techlabtl.github.com/"/>
-  <updated>2014-02-24T19:19:27+01:00</updated>
-  <id>http://techlabtl.github.com/</id>
+  <link href="http://fatto.techlab.tl/atom.xml" rel="self"/>
+  <link href="http://fatto.techlab.tl/"/>
+  <updated>2014-02-24T19:27:03+01:00</updated>
+  <id>http://fatto.techlab.tl/</id>
   <author>
     <name><![CDATA[TechLab]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Episodio 12 - Ai cento all'Ora]]></title>
-    <link href="http://techlabtl.github.com/blog/2013/04/19/episodio-12-ai-cento-allora/"/>
+    <link href="http://fatto.techlab.tl/blog/2013/04/19/episodio-12-ai-cento-allora/"/>
     <updated>2013-04-19T23:13:00+02:00</updated>
-    <id>http://techlabtl.github.com/blog/2013/04/19/episodio-12-ai-cento-allora</id>
-    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://techlabtl.github.com/images/posts/12.jpg" title="Episodio 12" alt="episodio 12"></p>
+    <id>http://fatto.techlab.tl/blog/2013/04/19/episodio-12-ai-cento-allora</id>
+    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://fatto.techlab.tl/images/posts/12.jpg" title="Episodio 12" alt="episodio 12"></p>
 
 <p>Quando la scadenza è reale, e non ti manca altro che allestire per l’apertura, il Techlab diventa un vero e proprio formicaio, e si respira energia. Sono tutti in botta.</p>
 
@@ -34,10 +34,10 @@
   
   <entry>
     <title type="html"><![CDATA[Episodio 11 - Onora dionisio]]></title>
-    <link href="http://techlabtl.github.com/blog/2013/04/19/episodio-11-onora-dionisio/"/>
+    <link href="http://fatto.techlab.tl/blog/2013/04/19/episodio-11-onora-dionisio/"/>
     <updated>2013-04-19T02:08:00+02:00</updated>
-    <id>http://techlabtl.github.com/blog/2013/04/19/episodio-11-onora-dionisio</id>
-    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://techlabtl.github.com/images/posts/11.jpg" title="Episodio 11" alt="episodio 11"></p>
+    <id>http://fatto.techlab.tl/blog/2013/04/19/episodio-11-onora-dionisio</id>
+    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://fatto.techlab.tl/images/posts/11.jpg" title="Episodio 11" alt="episodio 11"></p>
 
 <p>Ci sono momenti in cui sembra che la situazione ti stia sfuggendo di mano, ti perdi i pezzi, la mente sembra sovraccarica e inizi ad avere l’impressione di aver pisciato lungo, di non essere all’altezza del compito.</p>
 
@@ -53,10 +53,10 @@
   
   <entry>
     <title type="html"><![CDATA[Episodio 10 - Elogio del fallimento]]></title>
-    <link href="http://techlabtl.github.com/blog/2013/04/18/episodio-10-elogio-del-fallimento/"/>
+    <link href="http://fatto.techlab.tl/blog/2013/04/18/episodio-10-elogio-del-fallimento/"/>
     <updated>2013-04-18T03:58:00+02:00</updated>
-    <id>http://techlabtl.github.com/blog/2013/04/18/episodio-10-elogio-del-fallimento</id>
-    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://techlabtl.github.com/images/posts/10.png" title="Episodio 10" alt="episodio 10"></p>
+    <id>http://fatto.techlab.tl/blog/2013/04/18/episodio-10-elogio-del-fallimento</id>
+    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://fatto.techlab.tl/images/posts/10.png" title="Episodio 10" alt="episodio 10"></p>
 
 <p>Un’antica profezia diceva: prima dell’apertura del Techlab usciranno dodici articoli sull’apposito blog, uno al giorno, nei dodici giorni precedenti all’apertura.</p>
 
@@ -76,10 +76,10 @@
   
   <entry>
     <title type="html"><![CDATA[Episodio 8 - Danzare con lo spazio]]></title>
-    <link href="http://techlabtl.github.com/blog/2013/04/16/episodio-8-danzare-con-lo-spazio/"/>
+    <link href="http://fatto.techlab.tl/blog/2013/04/16/episodio-8-danzare-con-lo-spazio/"/>
     <updated>2013-04-16T01:48:00+02:00</updated>
-    <id>http://techlabtl.github.com/blog/2013/04/16/episodio-8-danzare-con-lo-spazio</id>
-    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://techlabtl.github.com/images/posts/8.jpg" title="Episodio 8" alt="episodio 8"></p>
+    <id>http://fatto.techlab.tl/blog/2013/04/16/episodio-8-danzare-con-lo-spazio</id>
+    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://fatto.techlab.tl/images/posts/8.jpg" title="Episodio 8" alt="episodio 8"></p>
 
 <p>1872 Felice Tabasso fonda il cotonificio Tabasso.</p>
 
@@ -95,10 +95,10 @@
   
   <entry>
     <title type="html"><![CDATA[Episodio 7 - Danzare con il tempo]]></title>
-    <link href="http://techlabtl.github.com/blog/2013/04/15/episodio-7-danzare-con-il-tempo/"/>
+    <link href="http://fatto.techlab.tl/blog/2013/04/15/episodio-7-danzare-con-il-tempo/"/>
     <updated>2013-04-15T01:48:00+02:00</updated>
-    <id>http://techlabtl.github.com/blog/2013/04/15/episodio-7-danzare-con-il-tempo</id>
-    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://techlabtl.github.com/images/posts/7.jpg" title="Episodio 7" alt="episodio 7"></p>
+    <id>http://fatto.techlab.tl/blog/2013/04/15/episodio-7-danzare-con-il-tempo</id>
+    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://fatto.techlab.tl/images/posts/7.jpg" title="Episodio 7" alt="episodio 7"></p>
 
 <p>L’organizzazione ha funzionato? Siamo stati profetici nelle nostre delibere organizzative?</p>
 
@@ -118,10 +118,10 @@
   
   <entry>
     <title type="html"><![CDATA[Episodio 6 - Organizzazione]]></title>
-    <link href="http://techlabtl.github.com/blog/2013/04/13/episodio-6-organizzazione/"/>
+    <link href="http://fatto.techlab.tl/blog/2013/04/13/episodio-6-organizzazione/"/>
     <updated>2013-04-13T21:02:00+02:00</updated>
-    <id>http://techlabtl.github.com/blog/2013/04/13/episodio-6-organizzazione</id>
-    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://techlabtl.github.com/images/posts/6.jpg" title="Episodio 6" alt="episodio 6"></p>
+    <id>http://fatto.techlab.tl/blog/2013/04/13/episodio-6-organizzazione</id>
+    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://fatto.techlab.tl/images/posts/6.jpg" title="Episodio 6" alt="episodio 6"></p>
 
 <p>Condivisa l’idea, adattata al contesto, coinvolte persone, trovato uno sponsor.</p>
 
@@ -130,7 +130,7 @@ Quale sarà il prossimo passo? Quali i modi e le persone adatte?<br/>
 Ci saremmo organizzati spontaneamente. Nessuna forzatura, nessuno faccia cose che non gli va di fare.</p>
 
 <p>Così, lo stesso concetto di Techlab andava sviluppandosi lungo una serie di incontri con tutti coloro che volevano essere coinvolti, fino a delineare una funzione a cui il Techlab avrebbe adempito:  il laboratorio è stato concepito per mettere al centro non il design del prodotto, ma il design del processo.<br/>
-Techlab fa, pensa, insegna. Reperto 2: <a href="http://techlabtl.github.com/files/Reperto-2.pdf">bozze di organizzazione del TechLab (CC 3.0 BY-SA)</a>.</p>
+Techlab fa, pensa, insegna. Reperto 2: <a href="http://fatto.techlab.tl/files/Reperto-2.pdf">bozze di organizzazione del TechLab (CC 3.0 BY-SA)</a>.</p>
 
 <p>Parlarsi, parlarsi il più possibile era l’organizzazione. Quando a qualcuno si illuminivano gli occhi più del dovuto si reclutava per il mercoledì sera. Una volta ogni due settimane, guardarsi in faccia e parlare a più non posso. Si sviluppavano idee e identificavano competenze.</p>
 
@@ -141,10 +141,10 @@ Nessuno mai ti proibirà di bere birra davanti alla tv, se credi che sia meglio 
   
   <entry>
     <title type="html"><![CDATA[Episodio 5 - Comunicare con le Istituzioni]]></title>
-    <link href="http://techlabtl.github.com/blog/2013/04/12/episodio-5-comunicare-con-le-istituzioni/"/>
+    <link href="http://fatto.techlab.tl/blog/2013/04/12/episodio-5-comunicare-con-le-istituzioni/"/>
     <updated>2013-04-12T16:15:00+02:00</updated>
-    <id>http://techlabtl.github.com/blog/2013/04/12/episodio-5-comunicare-con-le-istituzioni</id>
-    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://techlabtl.github.com/images/posts/5.jpg" title="Episodio 5" alt="episodio 5"></p>
+    <id>http://fatto.techlab.tl/blog/2013/04/12/episodio-5-comunicare-con-le-istituzioni</id>
+    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://fatto.techlab.tl/images/posts/5.jpg" title="Episodio 5" alt="episodio 5"></p>
 
 <p>Inventare qualcosa di nuovo significa dover affrontare il gigante istituzionale.</p>
 
@@ -166,10 +166,10 @@ Nessuno mai ti proibirà di bere birra davanti alla tv, se credi che sia meglio 
   
   <entry>
     <title type="html"><![CDATA[Episodio 4 - RICTAS: Riprodure Idee in Cose Tangibili Attraverso i Sensi]]></title>
-    <link href="http://techlabtl.github.com/blog/2013/04/11/episodio-4-rictas-riprodure-idee-in-cose-tangibili-attraverso-i-sensi/"/>
+    <link href="http://fatto.techlab.tl/blog/2013/04/11/episodio-4-rictas-riprodure-idee-in-cose-tangibili-attraverso-i-sensi/"/>
     <updated>2013-04-11T14:21:00+02:00</updated>
-    <id>http://techlabtl.github.com/blog/2013/04/11/episodio-4-rictas-riprodure-idee-in-cose-tangibili-attraverso-i-sensi</id>
-    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://techlabtl.github.com/images/posts/4.jpg" title="Episodio 4" alt="episodio 4"></p>
+    <id>http://fatto.techlab.tl/blog/2013/04/11/episodio-4-rictas-riprodure-idee-in-cose-tangibili-attraverso-i-sensi</id>
+    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://fatto.techlab.tl/images/posts/4.jpg" title="Episodio 4" alt="episodio 4"></p>
 
 <p>I grandi cavalcatori del capitale american style ti direbbero che un progetto dev’essere presentabile in una corsa di ascensore.<br/>
 <em>&#8220;Che cosa intendereste fare?&#8221;</em>, chiedono loro.<br/>
@@ -186,16 +186,16 @@ Forse non siamo gente che ti convince in una corsa d’ascensore. Esser capaci d
 
 <p>Il concetto diventa comunicabile.</p>
 
-<p>Reperto 1: <a href="http://techlabtl.github.com/files/Reperto-1.pdf">il TechLab appare in un documento (CC 3.0 BY-SA)</a>.</p>
+<p>Reperto 1: <a href="http://fatto.techlab.tl/files/Reperto-1.pdf">il TechLab appare in un documento (CC 3.0 BY-SA)</a>.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Episodio 3 - Calma e orecchie ritte]]></title>
-    <link href="http://techlabtl.github.com/blog/2013/04/10/episodio-3-calma-e-orecchie-ritte/"/>
+    <link href="http://fatto.techlab.tl/blog/2013/04/10/episodio-3-calma-e-orecchie-ritte/"/>
     <updated>2013-04-10T14:44:00+02:00</updated>
-    <id>http://techlabtl.github.com/blog/2013/04/10/episodio-3-calma-e-orecchie-ritte</id>
-    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://techlabtl.github.com/images/posts/3.jpg" title="Episodio 3" alt="episodio 3"></p>
+    <id>http://fatto.techlab.tl/blog/2013/04/10/episodio-3-calma-e-orecchie-ritte</id>
+    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://fatto.techlab.tl/images/posts/3.jpg" title="Episodio 3" alt="episodio 3"></p>
 
 <p>L’idea che Techlab ci piacesse e che avremmo voluto investire le nostre energie per aprirlo era comprovata. Restava da risolvere la più classica delle questioni: dove li trovi i soldi?</p>
 
@@ -207,10 +207,10 @@ Forse non siamo gente che ti convince in una corsa d’ascensore. Esser capaci d
   
   <entry>
     <title type="html"><![CDATA[Episodio 2 - Condizioni al contorno]]></title>
-    <link href="http://techlabtl.github.com/blog/2013/04/09/episodio-2-condizioni-al-contorno/"/>
+    <link href="http://fatto.techlab.tl/blog/2013/04/09/episodio-2-condizioni-al-contorno/"/>
     <updated>2013-04-09T17:34:00+02:00</updated>
-    <id>http://techlabtl.github.com/blog/2013/04/09/episodio-2-condizioni-al-contorno</id>
-    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://techlabtl.github.com/images/posts/2.jpg" title="Episodio 2" alt="episodio 2"></p>
+    <id>http://fatto.techlab.tl/blog/2013/04/09/episodio-2-condizioni-al-contorno</id>
+    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://fatto.techlab.tl/images/posts/2.jpg" title="Episodio 2" alt="episodio 2"></p>
 
 <p>Per capire cosa volessimo dare al chierese siamo partiti senz’altro da ciò che ci piace fare, o da ciò che sappiamo fare, mentre l’associazione Patchanka, ben radicata nel chierese, forniva risorse di rete e buona volontà.</p>
 
@@ -226,10 +226,10 @@ Forse non siamo gente che ti convince in una corsa d’ascensore. Esser capaci d
   
   <entry>
     <title type="html"><![CDATA[Episodio 1 - La nascita di un'idea]]></title>
-    <link href="http://techlabtl.github.com/blog/2013/04/08/episodio-1-la-nascita-di-un-idea/"/>
+    <link href="http://fatto.techlab.tl/blog/2013/04/08/episodio-1-la-nascita-di-un-idea/"/>
     <updated>2013-04-08T23:48:00+02:00</updated>
-    <id>http://techlabtl.github.com/blog/2013/04/08/episodio-1-la-nascita-di-un-idea</id>
-    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://techlabtl.github.com/images/posts/1.jpg" title="Episodio 1" alt="episodio 1"></p>
+    <id>http://fatto.techlab.tl/blog/2013/04/08/episodio-1-la-nascita-di-un-idea</id>
+    <content type="html"><![CDATA[<p><img class="center fullwidth" src="http://fatto.techlab.tl/images/posts/1.jpg" title="Episodio 1" alt="episodio 1"></p>
 
 <p>Svarionando.<br/>
 Techlab nasce passeggiando.</p>
@@ -246,9 +246,9 @@ Techlab nasce passeggiando.</p>
   
   <entry>
     <title type="html"><![CDATA[Prefazione]]></title>
-    <link href="http://techlabtl.github.com/blog/2013/04/08/prefazione/"/>
+    <link href="http://fatto.techlab.tl/blog/2013/04/08/prefazione/"/>
     <updated>2013-04-08T22:14:00+02:00</updated>
-    <id>http://techlabtl.github.com/blog/2013/04/08/prefazione</id>
+    <id>http://fatto.techlab.tl/blog/2013/04/08/prefazione</id>
     <content type="html"><![CDATA[<p>Cari tutti,<br/>
 il 20 aprile 2013 inaugurerà il TechLab a Chieri!<br/>
 Grazie ai preziosi <a href="http://www.provincia.torino.gov.it/solidarietasociale/giovani/progetti">fondi della Provincia di Torino</a> e alla saggia e confusa progettualità del <a href="http://patchanka.coop">Patchanka</a>.</p>

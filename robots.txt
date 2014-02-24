@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://techlabtl.github.com/sitemap.xml 
+Sitemap: http://fatto.techlab.tl/sitemap.xml 

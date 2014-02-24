@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: disclaimer | TechLab]]></title>
-  <link href="http://techlabtl.github.com/blog/categories/disclaimer/atom.xml" rel="self"/>
-  <link href="http://techlabtl.github.com/"/>
-  <updated>2014-02-24T19:19:27+01:00</updated>
-  <id>http://techlabtl.github.com/</id>
+  <link href="http://fatto.techlab.tl/blog/categories/disclaimer/atom.xml" rel="self"/>
+  <link href="http://fatto.techlab.tl/"/>
+  <updated>2014-02-24T19:27:03+01:00</updated>
+  <id>http://fatto.techlab.tl/</id>
   <author>
     <name><![CDATA[TechLab]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Prefazione]]></title>
-    <link href="http://techlabtl.github.com/blog/2013/04/08/prefazione/"/>
+    <link href="http://fatto.techlab.tl/blog/2013/04/08/prefazione/"/>
     <updated>2013-04-08T22:14:00+02:00</updated>
-    <id>http://techlabtl.github.com/blog/2013/04/08/prefazione</id>
+    <id>http://fatto.techlab.tl/blog/2013/04/08/prefazione</id>
     <content type="html"><![CDATA[<p>Cari tutti,<br/>
 il 20 aprile 2013 inaugurerà il TechLab a Chieri!<br/>
 Grazie ai preziosi <a href="http://www.provincia.torino.gov.it/solidarietasociale/giovani/progetti">fondi della Provincia di Torino</a> e alla saggia e confusa progettualità del <a href="http://patchanka.coop">Patchanka</a>.</p>
